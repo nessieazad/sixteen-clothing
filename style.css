@@ -21,12 +21,12 @@
 }
 
 /* ---------------------  */
-.list-group-item {
+.list-item {
     color: #4a4a4a;
     transition: 0.3s;
 }
 
-.list-group-item:hover {
+.list-item:hover {
     color: #f33f3f;
 }
 
