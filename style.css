@@ -60,3 +60,85 @@
 .purchase-bttn:hover {
     background-color: black;
 }
+
+/* .................... */
+.header-img {
+    background-image: url(images/products-heading.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
+
+.hover-danger {
+    color: black;
+    transition: 0.3s;
+}
+
+.hover-danger:hover {
+    color: #dc3545;
+}
+
+/* --------------------- */
+.nmbr-bttn {
+    color: black;
+    transition: 0.3s;
+
+}
+
+.nmbr-bttn:hover {
+    color: white;
+    background-color: #dc3545;
+    border: 1px solid #eee;
+}
+
+.nmbr-bttn2 {
+    color: white;
+    background-color: #dc3545;
+    border: none;
+}
+
+/* -------------------- */
+.us-header-img {
+    background-image: url(images/about-heading.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
+
+/* ---------------------- */
+.icon-bttn {
+    color: black;
+    transition: 0.3s;
+}
+
+.icon-bttn:hover {
+    color: white;
+    background-color: #f33f3f;
+}
+
+/* --------------------- */
+
+.team-member {
+    border: 2px solid #eee;
+}
+
+.read-bttn {
+    background-color: #f33f3f;
+    text-decoration: none;
+    border-radius: 3px;
+    color: white;
+    transition: 0.3s;
+}
+
+.read-bttn:hover {
+    background-color: black;
+}
+
+.bg-index {
+    background-image: url(images/services-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
